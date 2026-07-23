@@ -24,7 +24,7 @@
   "env": {
     "SESSION_ID": {
       "description": "Must begin with 'XPLOADER-BOT:~' or 'CYPHER-X:~'.",
-      "required": false
+      "required": true
     }
   },
 
